@@ -1,6 +1,7 @@
 ## Characterizing and Understanding Software Security Vulnerabilities in Machine Learning libraries
 
-### This paper has been submitted to ICSE 2022
+The application of machine learning (ML) libraries has been tremendously increased in a wide range of domains including autonomous driving systems, medical, and critical industries. 
+Vulnerabilities of such libraries result in irremediable consequences. Recently, some studies have been conducted to categorize bugs of DL and ML libraries both from end-user (API misuses) and developers (real bugs during implementation) contexts. However, characterizing software security vulnerabilities has been never studied. To bridge this gap, in this paper, we characterize vulnerabilities of five well-known DL and ML libraries including Tensorflow, PyTorch, Sickit-learn, Pandas, and Numpy. To do so, we extracted the vulnerable related commits from repositories of these libraries. Hence, we implemented a rule-based system in which it employs a set of predefined rules to match most related commits for analysis. We collected commits, merged pull requests, and issues linked to original commits addressing five major research questions; 1) vulnerability types, 2) root cause, 3) symptoms, 4) fixing patterns, and 5) fixing scales, and 6) affected components. The findings of this paper assist practitioners and developers to have a better understanding of software security vulnerabilities across different libraries and help their team to gain better insight into the weaknesses of such libraries.
 
 You can use the [editor on GitHub](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
