@@ -15,5 +15,5 @@ In this project, we provide the first comprehensive empirical study on character
 
 The benchmark data we used for our manual analysis is available [here](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/benchmarkData.csv)
 
-In order to extract commits, please use this [script] (https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/fetch_commits.py)
+In order to extract commits, please use this [script](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/fetch_commits.py)
 
