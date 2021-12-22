@@ -17,4 +17,4 @@ The benchmark data we used for our manual analysis is available [here](https://g
 
 In order to extract commits, please use this [script](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/fetch_commits.py)
 
-[Link] (https://cse19922021.github.io/Deep-Learning-Security-Vulnerabilities/rootcauseSymptom.html) Root cause to symptoms.
+[Link](https://cse19922021.github.io/Deep-Learning-Security-Vulnerabilities/rootcauseSymptom.html) Root cause to symptoms.
