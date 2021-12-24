@@ -17,7 +17,7 @@ The benchmark data we used for our manual analysis is available [here](https://g
 
 In order to extract commits, please use this [script](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/fetch_commits.py).
 
-In order to generate Figure 8 which is the mapping of root causes to symptoms, we used [plotly](https://plotly.com/) library. You can use this script [Link](https://cse19922021.github.io/Deep-Learning-Security-Vulnerabilities/rootcauseSymptom.html) to generate this figure as shown in the paper.
+In order to generate Figure 8 which is the mapping of root causes to symptoms, we used a Python library called [plotly](https://plotly.com/). You can use this script [Link](https://cse19922021.github.io/Deep-Learning-Security-Vulnerabilities/rootcauseSymptom.html) to generate this figure as shown in the paper.
 
 To generate distributions according to each research question in the paper, we use [this](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/generate_figs.R) written in R. You can simply run the script and all related figures will be generated automatically in PDF format. Prerequisite of running R scripts is to install [R](https://www.r-project.org/) base according to your platform. Also, it is highly recommended to use [R studio](https://www.rstudio.com/) to generate the figures. Please make sure:
 
