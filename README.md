@@ -13,7 +13,7 @@ In this project, we provide the first comprehensive empirical study on character
 * What is the frequency of fixing patterns?
 * What components affected by vulnerabilities?
 
-The benchmark data we used for our manual analysis is available [here](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/benchmark.csv).
+The benchmark data we used for our manual analysis is available [here](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/workflow.csv).
 
 In order to extract commits, please use this [script](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/fetch_commits.py).
 
