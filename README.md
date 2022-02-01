@@ -16,7 +16,11 @@ The benchmark data we used for our manual analysis is available [here](https://g
 
 In order to extract commits, please use this [script](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/fetch_commits.py).
 
-In order to generate Figure 7 and Figure 9, we used a Python library called [plotly](https://plotly.com/). You can use this script [Link](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/figure7.py) and [Link](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/figure9.py) to generate the Figure 7 and Figure 9 respectively.
+The steps to reproduce the commits for each ML library is as follows:
+* Put `fetch_commits.py` under any directory in your os, and the commits will be generated at the same directory. Please note that you need Python3.x to be able to run the script. 
+* Once you run the script, you will see multiple parameters. The main parameters are the target ML library username and repository name as well as personal access token.
+
+In order to generate Figure 7 and Figure 9, we used a Python library called [plotly](https://plotly.com/). You can use this script [Link](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/figure7.py) and [Link](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/figure9.py) to generate the Figure 7 and Figure 9 respectively. To generate Figure 7 and Fugure 9, you just put scripts anywhere in your os and run it using Python3.x. You can not run scripts using Python2.x. Then the figures will be generated as webpages in your localhost address. 
 
 In order to run our developed automated mutation testing tool (DeepMute), please refer to [Link](https://github.com/cse19922021/DeepMute/tree/main).
 
