@@ -9,7 +9,7 @@ In this project, we provide the first comprehensive empirical study on character
 * What are the root causes for vulnerabilities in ML libraries?
 * What are the symptoms of vulnerabilities in ML libraries?
 * What are the fixing patterns for vulnerabilities in ML libraries?
-* What are the efforts required for fixing vulnera- bilities in ML libraries?
+* What are the efforts required for fixing vulnerabilities in ML libraries?
 
 
 The benchmark data we used for our manual analysis is available [here](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/benchmark.csv).
