@@ -103,7 +103,7 @@ class Figures():
 
 
 def main():
-    file_path = './data.csv'
+    file_path = './benchmark.csv'
     data = load_csv(file_path)
     data = data[data['Root cause High level'] != 'Others']
 
