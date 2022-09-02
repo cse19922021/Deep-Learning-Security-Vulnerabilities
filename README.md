@@ -18,7 +18,7 @@ The steps to reproduce the commits for each ML library is as follows:
 * Put `fetch_commits.py` under any directory in your os, and the commits will be generated at the same directory. Please note that you need Python3.x to be able to run the script. 
 * Once you run the script, you will see multiple parameters. The main parameters are the target ML library username and repository name, as well as a personal access token.
 
-In order to generate Figure 7 and Figure 9, we used a Python library called [plotly](https://plotly.com/). You can use [Figure7](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/figure7.py) to generate Figure 7. To generate it, you just need to put the scripts anywhere in your local disk and run them using Python3.x. Please note that you can not run scripts using Python2.x. Then the figures will be generated as web pages in your localhost address. 
+In order to generate Figure 7, we used a Python library called [plotly](https://plotly.com/). You can use [Figure7](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/figure7.py) to generate Figure 7. To generate it, you just need to put the scripts anywhere in your local disk and run them using Python3.x. Please note that you can not run scripts using Python2.x. Then the figures will be generated as web pages in your localhost address. 
 
 <!--In order to run our developed automated mutation testing tool (DeepMute), please refer to [Link](https://github.com/cse19922021/DeepMute/tree/main). -->
 
