@@ -28,6 +28,10 @@ Or you can access all 5609 commits for the libraries here:
 *[Numpy](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/numpy.txt)
 *[Scipy](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/scipy)
 
+In order to run data for images and tables in the paper, please use our [colab notebook](https://colab.research.google.com/drive/1xuicNIIuKrbh76KN28uHQIotBihidm7y?usp=sharing):
+
+
+
 <!--
 In order to generate Figure 7, we used a Python library called [plotly](https://plotly.com/). You can use [Figure7](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/figure7.py) to generate Figure 7. To generate it, you just need to put the scripts anywhere in your local disk and run them using Python3.x. Please note that you can not run scripts using Python2.x. Then the figures will be generated as web pages in your localhost address. -->
 
