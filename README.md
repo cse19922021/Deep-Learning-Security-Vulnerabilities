@@ -31,9 +31,7 @@ Or you can access all 5609 commits for the libraries here:
 In order to run data for images and tables in the paper, please use our [colab notebook](https://colab.research.google.com/drive/1xuicNIIuKrbh76KN28uHQIotBihidm7y?usp=sharing):
 
 
-
-<!--
-In order to generate Figure 7, we used a Python library called [plotly](https://plotly.com/). You can use [Figure7](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/figure7.py) to generate Figure 7. To generate it, you just need to put the scripts anywhere in your local disk and run them using Python3.x. Please note that you can not run scripts using Python2.x. Then the figures will be generated as web pages in your localhost address. -->
+In order to generate Figure 6 (the parallel plot), we used a Python library called [plotly](https://plotly.com/). You can use [this](https://github.com/cse19922021/Deep-Learning-Security-Vulnerabilities/blob/main/ppScript.py) to generate Figure 6. You just need to put the scripts anywhere in your home directory and run it (please note that you need Python3.x). The figures will be generated as web pages in your localhost address.
 
 <!--In order to run our developed automated mutation testing tool (DeepMute), please refer to [Link](https://github.com/cse19922021/DeepMute/tree/main). -->
 
